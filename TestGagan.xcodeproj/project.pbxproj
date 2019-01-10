@@ -17,6 +17,7 @@
 		4902164221E73F2F00FC1A35 /* iiiii.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4902164121E73F2F00FC1A35 /* iiiii.swift */; };
 		4902164421E7401E00FC1A35 /* ffff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4902164321E7401E00FC1A35 /* ffff.swift */; };
 		4902164621E7429B00FC1A35 /* dvdcdc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4902164521E7429B00FC1A35 /* dvdcdc.swift */; };
+		4902164821E744CC00FC1A35 /* ggggggg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4902164721E744CC00FC1A35 /* ggggggg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		4902164121E73F2F00FC1A35 /* iiiii.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iiiii.swift; sourceTree = "<group>"; };
 		4902164321E7401E00FC1A35 /* ffff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ffff.swift; sourceTree = "<group>"; };
 		4902164521E7429B00FC1A35 /* dvdcdc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dvdcdc.swift; sourceTree = "<group>"; };
+		4902164721E744CC00FC1A35 /* ggggggg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ggggggg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +50,6 @@
 		4902161F21E7298200FC1A35 = {
 			isa = PBXGroup;
 			children = (
-				4902164521E7429B00FC1A35 /* dvdcdc.swift */,
 				4902162A21E7298200FC1A35 /* TestGagan */,
 				4902162921E7298200FC1A35 /* Products */,
 			);
@@ -71,10 +72,12 @@
 				4902163221E7298200FC1A35 /* Assets.xcassets */,
 				4902163421E7298200FC1A35 /* LaunchScreen.storyboard */,
 				4902163721E7298200FC1A35 /* Info.plist */,
+				4902164521E7429B00FC1A35 /* dvdcdc.swift */,
 				4902163D21E72A6F00FC1A35 /* iam.swift */,
 				4902163F21E73E2C00FC1A35 /* iamAgain.swift */,
 				4902164121E73F2F00FC1A35 /* iiiii.swift */,
 				4902164321E7401E00FC1A35 /* ffff.swift */,
+				4902164721E744CC00FC1A35 /* ggggggg.swift */,
 			);
 			path = TestGagan;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4902164021E73E2C00FC1A35 /* iamAgain.swift in Sources */,
+				4902164821E744CC00FC1A35 /* ggggggg.swift in Sources */,
 				4902162E21E7298200FC1A35 /* ViewController.swift in Sources */,
 				4902164621E7429B00FC1A35 /* dvdcdc.swift in Sources */,
 				4902164221E73F2F00FC1A35 /* iiiii.swift in Sources */,
